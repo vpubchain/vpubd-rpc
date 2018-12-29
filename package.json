@@ -1,7 +1,7 @@
 {
-  "name": "@vpubevo/vpubd-rpc",
+  "name": "vpubd-rpc",
   "description": "Dash Client Library to connect to Dash Core (dashd) via RPC",
-  "version": "1.2.1",
+  "version": "0.1.1",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
