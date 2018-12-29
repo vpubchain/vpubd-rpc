@@ -1,6 +1,6 @@
 {
-  "name": "vpubd-rpc",
-  "description": "Dash Client Library to connect to Dash Core (dashd) via RPC",
+  "name": "@vpubevo/vpubd-rpc",
+  "description": "Vpub Client Library to connect to Vpub Core (vpubd) via RPC",
   "version": "0.1.1",
   "author": {
     "name": "Stephen Pair",
