@@ -2,5 +2,5 @@
 ## Install
 
 ```bash
-npm install dashd-rpc
+npm install @vpubevo/vpubd-rpc
 ```
